@@ -2,14 +2,14 @@
 
 <img src="./images/render.jpg" alt="" style="border-radius: 10px;" />
 
-This is a breadboard-friendly breakout board specifically designed to work with the Pololu magnetic encoder pair kit connectors, specifically:
+This is a breadboard-friendly breakout board specifically designed to work with the Pololu micro metal gearmotor encoders/connectors, specifically these two:
 
 - [Magnetic Encoder Pair Kit with Side-Entry Connector for Micro Metal Gearmotors](https://www.pololu.com/product/4761)
 - [Magnetic Encoder Pair Kit with Top-Entry Connector for Micro Metal Gearmotors](https://www.pololu.com/product/4760)
 
-These two encoders are fitted with JST-SH connectors with a specific pinout. JST-SH connectors are a bit too small to solder 20 AWG wires too, so this breakout board makes it easier.
+These two encoders are fitted with JST-SH connectors with a specific pinout. JST-SH connectors are a bit too small to solder 20 AWG wires too, so this breakout board makes them easier to work with.
 
-The two headers are spaced by 0.3", so it takes up minimal space on a standard breadboard, and you can let the JST connectors "hang off" the end of the breakout board.
+The two headers are spaced by 0.3", so it takes up minimal space on a standard breadboard, and you can let the JST connectors "hang off" the end of the breadboard to save even more space.
 
 ## Pinout
 
