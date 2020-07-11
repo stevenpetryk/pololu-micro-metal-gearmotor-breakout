@@ -36,4 +36,6 @@ It's surprisingly hard to find horizontal JST SMD connectors from anywhere but S
 
 ## Dimensions
 
-<img src="./images/pcb-layout.png" alt="" />
+<p align="center">
+  <img src="./images/pcb-layout.png" alt="" />
+</p>
